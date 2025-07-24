@@ -1,0 +1,15 @@
+NoMouse Software License
+
+Copyright © 2025 Momchil
+
+This software is provided free of charge for personal and professional use. By using NoMouse, you agree to the following terms:
+	1.	Usage Rights
+You are granted a non-transferable, non-exclusive license to use NoMouse on your macOS device.
+	2.	Prohibited Actions
+	•	You may not reverse-engineer, decompile, modify, or attempt to bypass protections in the app.
+	•	You may not redistribute, resell, or host this software without explicit written permission.
+	•	You may not extract, access, or distribute the source code.
+	3.	Ownership & Monetization
+NoMouse is proprietary software. All rights, including the right to introduce paid features or services, are reserved by the author.
+	4.	No Warranty
+This software is provided “as is” without any warranty. Use at your own risk.
